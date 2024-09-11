@@ -1,0 +1,17 @@
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\bin\Debug\net7.0-windows\Laivanupotus.exe
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\bin\Debug\net7.0-windows\Laivanupotus.deps.json
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\bin\Debug\net7.0-windows\Laivanupotus.runtimeconfig.json
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\bin\Debug\net7.0-windows\Laivanupotus.dll
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\bin\Debug\net7.0-windows\Laivanupotus.pdb
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.csproj.GenerateResource.cache
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.AssemblyInfoInputs.cache
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.AssemblyInfo.cs
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.dll
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\refint\Laivanupotus.dll
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.pdb
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.genruntimeconfig.cache
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\ref\Laivanupotus.dll
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.Merkkaukset.resources
+C:\Users\gr289361\Desktop\Omat jutut\Laivanupotus\Laivanupotus\obj\Debug\net7.0-windows\Laivanupotus.Pelilauta.resources
